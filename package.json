@@ -1,11 +1,16 @@
 {
-  "name": "mako-file-icons",
+  "publisher": "mokshshrm",
+  "name": "mako-suport",
   "displayName": "Mako File Icons",
   "description": "Custom file icon for .mako files",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.60.0"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Mokshshrm/Mako-support.git"
+},
   "contributes": {
     "iconThemes": [
       {
