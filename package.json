@@ -1,0 +1,19 @@
+{
+  "name": "mako-file-icons",
+  "displayName": "Mako File Icons",
+  "description": "Custom file icon for .mako files",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "mako-icon-theme",
+        "label": "Mako Icons",
+        "path": "./theme-icon.json"
+      }
+    ]
+  }
+}
+

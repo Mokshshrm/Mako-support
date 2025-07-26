@@ -1,0 +1,11 @@
+{
+  "fileExtensions": {
+    "mako": "mako"
+  },
+  "iconDefinitions": {
+    "mako": {
+      "iconPath": "./icons/mako.png"
+    }
+  }
+}
+
